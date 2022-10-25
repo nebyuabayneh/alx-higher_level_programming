@@ -1,6 +1,6 @@
 # 0x0B. Python - Input/Output
 
-In this project I learnt to read/write files and working with json files in python
+In this project I learnt to read/write files and working with json files in python.
 
 ## Concepts learnt
 - How to open a file
